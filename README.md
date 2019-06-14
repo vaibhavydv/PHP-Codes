@@ -1,5 +1,6 @@
-#fpdf php extension for html to php conversation
-####it support
+# fpdf php extension for html to php conversation
+
+#### it supports
 
 Choice of measure unit, page format and margins
 Page header and footer management
@@ -10,3 +11,7 @@ Colors
 Links
 TrueType, Type1 and encoding support
 Page compression 
+
+Clone repository and go to mt directory
+
+>
