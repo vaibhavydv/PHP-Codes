@@ -20,7 +20,9 @@ TrueType, Type1 and encoding support
 
 Page compression 
 
-Clone repository and go to mt directory
+Clone repository and go to mt directory and provide permission to repo 
+
+sudo chmod -R 777 .
 
 > fpdf.php is lib for html to pdf with footer and header
 
