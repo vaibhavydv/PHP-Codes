@@ -15,5 +15,11 @@ Page compression
 Clone repository and go to mt directory
 
 > fpdf.php is lib for html to pdf with footer and header
+
 > index.php is core file 
+
 > doc.html is the html of trust document 
+
+Download it 
+
+by Vaibhav
