@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>PHP</title>
+</head>
+<body>
+<center>
+<h1>PHP</h1>
+</center>
+</body>
+</html>
